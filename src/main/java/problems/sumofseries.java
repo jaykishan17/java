@@ -2,7 +2,7 @@ package problems;
 
 import java.util.Scanner;
 
-class sumClass(){
+class sumClass {
     static int sumMethod(){
 
         return 0;
